@@ -7,7 +7,7 @@ int main(){
 	scanf("%d",&n);
 	for (int i = 0; i < n; i++)
 	{
-		scanf("%s",str[i]);
+		scanf("%100s",str[i]);
 	}
 	
 	int length;
