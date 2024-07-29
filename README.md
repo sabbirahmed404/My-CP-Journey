@@ -18,7 +18,6 @@ This repository is licensed under the MIT License.
 
 For questions or feedback, reach out at:
 
-- **Email**: your.email@example.com
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
+- **Email**: msa29.cse@gmail.com
 
 Thank you for visiting! Happy coding!
