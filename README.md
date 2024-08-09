@@ -20,4 +20,4 @@ For questions or feedback, reach out at:
 
 - **Email**: msa29.cse@gmail.com
 
-Thank you for visiting! Happy coding!
+Thank you! Happy coding!
