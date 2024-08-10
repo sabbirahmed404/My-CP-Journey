@@ -9,10 +9,10 @@ int main() {
     for (size_t i = 0; i < strlen(var); i++) {
         if (var[i] == '0') {
             zeros++;
-            ones = 0;  // reset ones count
+            ones = 0;  
         } else if (var[i] == '1') {
             ones++;
-            zeros = 0;  // reset zeros count
+            zeros = 0;   
         }
 
         if (zeros == 7 || ones == 7) {
