@@ -13,7 +13,6 @@ int main(){
         //printf("sum: %d\n", sum_k1k2);
         white_domino = sum_k1k2/2;
         black_domino = (2*n-sum_k1k2)/2;
-        //printf("%d %d\n", white_domino, black_domino);
         if (w<=white_domino && b <= black_domino)
         {
             printf("YES\n");
