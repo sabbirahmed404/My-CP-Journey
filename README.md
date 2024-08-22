@@ -18,6 +18,6 @@ This repository is licensed under the MIT License.
 
 For questions or feedback, reach out at:
 
-- **Email**: msa29.cse@gmail.com
+ **Email**: msa29.cse@gmail.com
 
 Thank you! Happy coding!
