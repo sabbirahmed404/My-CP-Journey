@@ -6,17 +6,13 @@ int main(){
     {
         scanf("%d",&var[i]);
     }
-
     for (size_t i = 0; i < n; i++)
     {
         if (var[k]<=var[i])
         {
             flag++;
         }
-        
     }
     printf("%d",flag);
-    
-
     return 0;
 }
