@@ -2,7 +2,7 @@
 
 void find_round_numbers(int n) {
     int position = 1;
-    int result[5]; // Maximum 5 digits in 104, hence at most 5 round numbers
+    int result[5]; 
     int count = 0;
     
     while (n > 0) {
