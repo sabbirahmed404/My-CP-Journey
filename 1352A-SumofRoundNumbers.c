@@ -21,6 +21,7 @@ void find_round_numbers(int n) {
     printf("\n");
 }
 
+
 int main() {
     int t;
     scanf("%d", &t);
