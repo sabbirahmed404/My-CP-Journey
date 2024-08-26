@@ -12,14 +12,12 @@ int main() {
         printf("NO\n");
         return 0;
     }
-
     for (int i = 0; i < len_s; i++) {
         if (s[i] != t[len_t - i - 1]) {
             printf("NO\n");
             return 0;
         }
     }
-
     printf("YES\n");
     return 0;
 }
