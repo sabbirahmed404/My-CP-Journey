@@ -5,7 +5,6 @@ int main() {
     char s[101], t[101];
     scanf("%s", s);
     scanf("%s", t);
-
     int len_s = strlen(s);
     int len_t = strlen(t);
 
