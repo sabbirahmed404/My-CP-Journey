@@ -13,6 +13,7 @@ void find_round_numbers(int n) {
         n /= 10;
         position *= 10;
     }
+
     
     printf("%d\n", count);
     for (int i = 0; i < count; i++) {
