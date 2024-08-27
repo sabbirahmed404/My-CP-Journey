@@ -11,9 +11,9 @@ int main() {
         long long remainder = a % b;  
         
         if (remainder == 0) {
-            printf("0\n");  // No moves needed if a is already divisible by b
+            printf("0\n");  
         } else {
-            long long moves = b - remainder;  // Calculate the number of moves needed
+            long long moves = b - remainder;  
             printf("%lld\n", moves);  // Print the result
         }
     }
