@@ -2,7 +2,7 @@
 
 int main() {
     int t;
-    scanf("%d", &t);  // Read the number of test cases
+    scanf("%d", &t); 
 
     while (t--) {
         long long a, b;
@@ -14,7 +14,7 @@ int main() {
             printf("0\n");  
         } else {
             long long moves = b - remainder;  
-            printf("%lld\n", moves);  // Print the result
+            printf("%lld\n", moves); 
         }
     }
 
