@@ -6,7 +6,7 @@ int main() {
     char input[1001];
     fgets(input, sizeof(input), stdin);
 
-    bool letters[26] = {false};  // to keep track of distinct letters
+    bool letters[26] = {false}; 
     int distinct_count = 0;
 
     for (int i = 0; i < strlen(input); i++) {
