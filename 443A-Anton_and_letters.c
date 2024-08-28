@@ -17,7 +17,6 @@ int main() {
             }
         }
     }
-
     printf("%d\n", distinct_count);
     return 0;
 }
