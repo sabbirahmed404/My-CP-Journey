@@ -4,7 +4,7 @@ int main() {
     int n;
     scanf("%d", &n); // Read the number of magnets
     
-    char current[3]; // To hold the current magnet orientation
+    char current[3]; 
     char previous[3]; 
     int groups = 0; 
 
