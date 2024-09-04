@@ -5,7 +5,7 @@ int main() {
     scanf("%d", &n); // Read the number of magnets
     
     char current[3]; // To hold the current magnet orientation
-    char previous[3]; // To hold the previous magnet orientation
+    char previous[3]; 
     int groups = 0; 
 
     // Read the first magnet
