@@ -15,7 +15,7 @@ int main() {
     for (int i = 1; i < n; i++) {
         scanf("%s", previous); // Read the next magnet
 
-        // If the current magnet is different from the previous one
+        
         if (previous[0] != current[0]) {
             groups++; // A new group is formed
         }
