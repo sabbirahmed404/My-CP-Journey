@@ -14,7 +14,7 @@ int main() {
         // Check if this character has not been counted before
         if (freq[username[i] - 'a'] == 0) {
             freq[username[i] - 'a'] = 1;
-            distinct++; // Increment distinct character count
+            distinct++;
         }
     }
     
