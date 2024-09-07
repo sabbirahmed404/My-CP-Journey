@@ -3,7 +3,7 @@
 
 int main() {
     char username[101];
-    int freq[26] = {0}; // Frequency array to track distinct characters
+    int freq[26] = {0}; 
     int distinct = 0;
 
     // Input the username
