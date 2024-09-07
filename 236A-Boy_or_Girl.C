@@ -9,7 +9,7 @@ int main() {
     // Input the username
     scanf("%s", username);
     
-    // Iterate through each character in the string
+
     for (int i = 0; username[i] != '\0'; i++) {
         // Check if this character has not been counted before
         if (freq[username[i] - 'a'] == 0) {
