@@ -18,7 +18,7 @@ int main() {
         }
     }
     
-    // If the number of distinct characters is odd, print "IGNORE HIM!", otherwise "CHAT WITH HER!"
+
     if (distinct % 2 == 0) {
         printf("CHAT WITH HER!\n");
     } else {
