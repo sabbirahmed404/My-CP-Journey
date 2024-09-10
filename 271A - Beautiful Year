@@ -13,7 +13,6 @@ bool hasDistinctDigits(int year) {
     }
     return true;
 }
-
 int main() {
     int y;
     scanf("%d", &y);
