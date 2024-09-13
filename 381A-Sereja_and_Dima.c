@@ -28,6 +28,7 @@ int main() {
             }
             right--;
         }
+        
     }
     printf("%d %d\n", sereja, dima);
     return 0;
