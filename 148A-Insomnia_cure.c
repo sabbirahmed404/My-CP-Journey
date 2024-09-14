@@ -10,13 +10,13 @@ int main() {
 
     int damaged_count = 0;
 
-    // Loop through each dragon from 1 to d
+
     for (int i = 1; i <= d; i++) {
         if (i % k == 0 || i % l == 0 || i % m == 0 || i % n == 0) {
-            damaged_count++; // Count this dragon as damaged
+            damaged_count++;
         }
     }
 
-    printf("%d\n", damaged_count); // Output the number of damaged dragons
+    printf("%d\n", damaged_count); 
     return 0;
 }
