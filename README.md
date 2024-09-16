@@ -10,10 +10,6 @@ This repository serves as a personal reference and a resource for those looking 
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request. Please ensure your code follows consistent naming conventions and includes comments for clarity.
 
-## License
-
-This repository is licensed under the MIT License.
-
 ## Contact
 
 For questions or feedback, reach out at:
