@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    char var[100];
+    char var[101];
     int zeros = 0, ones = 0;
     scanf("%s", var);
 
