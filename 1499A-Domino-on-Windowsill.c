@@ -10,7 +10,6 @@ int main(){
         scanf("%d %d", &w, &b);
         var = n*2;
         int sum_k1k2= k1+k2;
-        //printf("sum: %d\n", sum_k1k2);
         white_domino = sum_k1k2/2;
         black_domino = (2*n-sum_k1k2)/2;
         if (w<=white_domino && b <= black_domino)
