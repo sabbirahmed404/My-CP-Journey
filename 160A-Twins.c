@@ -40,7 +40,6 @@ int main() {
         scanf("%d", &coins[i]);
     }
 
-    // Sort the coins in descending order using custom quicksort
     quicksort(coins, 0, n - 1);
 
     int total_sum = 0;
