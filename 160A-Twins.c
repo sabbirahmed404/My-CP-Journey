@@ -22,7 +22,6 @@ int partition(int arr[], int low, int high) {
     return i + 1;
 }
 
-// Custom quicksort function
 void quicksort(int arr[], int low, int high) {
     if (low < high) {
         int pivot = partition(arr, low, high);
