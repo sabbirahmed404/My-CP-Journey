@@ -8,7 +8,7 @@ int main() {
     char previous[3]; 
     int groups = 0; 
 
-    // Read the first magnet
+ 
     scanf("%s", current);
     groups = 1; // The first magnet always starts a new group
 
