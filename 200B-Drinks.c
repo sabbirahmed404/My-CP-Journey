@@ -6,7 +6,7 @@ int main() {
     
     int pi;
     double total = 0.0;
-    
+    printf("get");
     for (int i = 0; i < n; i++) {
         scanf("%d", &pi);
         total += pi;
