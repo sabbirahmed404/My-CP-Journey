@@ -6,9 +6,6 @@ Welcome to my Competitive Programming Repository! This project archives my solut
 
 This repository serves as a personal reference and a resource for those looking to enhance their competitive programming skills. Each solution emphasizes clarity and efficiency, providing educational insights.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request. Please ensure your code follows consistent naming conventions and includes comments for clarity.
 
 ## Contact
 
