@@ -2,6 +2,7 @@
 
 int main() {
     int n, k;
+    int m;
     scanf("%d %d", &n, &k);
 
     int total_length = 0;
